@@ -1,0 +1,5 @@
+ ctrl + / = comment any line 
+alt + click whereever you want = MULTIPLE BACKSPACE 
+shift + alt + pd down = copy same line down
+select line then alt+ pagedown  or up = move line up down 
+if want to change a spelling occured multiple time in code then select and then right click and select change all occurences and rewrite it 

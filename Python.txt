@@ -1,0 +1,32 @@
+
+| Compiler                                     | Interpreter                                   |
+| -------------------------------------------- | --------------------------------------------- |
+| Translates the **entire program at once**    | Translates **one line at a time**             |
+| Creates a separate machine/executable file   | Usually does not create a separate executable |
+| Errors are generally shown after compilation | Stops when it encounters an error             |
+| Execution is usually **faster**              | Execution is usually **slower**               |
+| Compilation takes some time before execution | Starts execution immediately                  |
+| Example: **C, C++**                          | Example: **Python, JavaScript**               |
+
+
+
+Python:- is a high-level, interpreted, general-purpose programming language 
+known for its simple syntax and readability. 
+It was created by Guido van Rossum and first released in 1991.
+
+Key Features of Python
+Easy to learn – Simple and English-like syntax.
+Interpreted – Python code is executed through an interpreter.
+High-level language – No need to manage hardware or memory directly.
+Object-oriented – Supports classes and objects.
+Portable – Python programs can run on different operating systems.
+Open-source – Freely available to use and modify.
+Dynamically typed – You don't need to declare a variable's data type explicitly.
+Large libraries – Provides many built-in and external libraries.
+Extensible – Can work with languages such as C and C++.
+Automatic memory management – Python manages memory automatically.
+
+
+A list is an ordered and mutable collection of elements in Python. 
+It is used to store multiple values in a single variable. 
+A list can contain elements of different data types, and duplicate elements are also allowed.

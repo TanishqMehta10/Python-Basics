@@ -1,0 +1,1 @@
+print("Hey Tanishq you have to complete python in 3 days!!!! ")

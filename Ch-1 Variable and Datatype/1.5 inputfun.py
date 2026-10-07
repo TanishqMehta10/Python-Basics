@@ -1,0 +1,5 @@
+a=int(input("Enter no: "))
+b=int(input("Enter no: "))
+print("no a is: ",a)
+print("no b is: ",b)
+print("sum of them is : ",a+b)
